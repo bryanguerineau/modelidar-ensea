@@ -1,0 +1,8 @@
+prefix=/home/ensea/catkin_ws/install
+
+Name: modelidar-joystick-talker
+Description: Description of modelidar-joystick-talker
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
